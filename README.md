@@ -15,7 +15,7 @@ There should also be a button at the bottom of each card that when clicked displ
 
 Clone the repository: 
 
-```git clone .... ```
+```git clone git@github.com:glenntippett/show-user-details-challenge.git ```
 
 Install dependencies: 
 
